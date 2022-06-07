@@ -7,3 +7,5 @@ sass
 config.rb
 npm-debug.log
 utils.js
+exploits/**
+!exploits/moment-exploit.sh
